@@ -1,0 +1,1 @@
+# Shopping-Django-Res0-Frameworkt
